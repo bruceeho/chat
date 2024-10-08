@@ -31,5 +31,4 @@ def main():
     write_file('output.txt', lines)
 
 
-
 main()
